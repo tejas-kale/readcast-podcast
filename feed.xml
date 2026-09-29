@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Readcast</title>
+    <link>https://tejas-kale.github.io/readcast-podcast</link>
+    <description>A personal collection of narrated articles.</description>
+    <language>en</language>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>yes</itunes:block>
+    <itunes:image href="https://tejas-kale.github.io/readcast-podcast/cover.png" />
+    <item>
+      <title>The New GDP Series and Its Critics (Microsoft Mai Voice 2 Flash
+- en US Harper MAI Voice 2)</title>
+      <description>India’s national accounts were rebased in February 2026, shifting the base year from 2011-12 to 2022-23.</description>
+      <guid isPermaLink="false">urn:readcast:clipping:987028909146ce5b1b6ddd6973df18aa95c48ccb896b719c74768e6cbbc45489</guid>
+      <pubDate>Tue, 29 Sep 2026 09:32:27 GMT</pubDate>
+      <enclosure url="https://readcast-audio.kaletejas2006.workers.dev/audio/replacement-7cb2e161df191579ce6e-file16f0b6c76a596.mp3" length="13587404" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
